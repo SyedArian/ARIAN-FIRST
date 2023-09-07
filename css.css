@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+}
+.header{
+    max-width: 99%;
+    height: auto;
+    background-color: rgb(121, 120, 120);
+    margin: 30px;
+}
+.nav{
+    margin: 10px;
+    background-color: rgb(16, 71, 16);
+    border-radius: 5%;
+}
+.AAFL {
+    height: 20%;
+    width: 20%;
+    border-radius: 100%;
+    margin: auto 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+       text-decoration: none;
+       color: rgb(255, 255, 255);
+       margin: 1.7cm;
+       padding: 5px;
+       border-radius: 10%;
+       font-size: 2rem;
+       font-family: 'Indie Flower', cursive;
+       
+}
+a:hover{
+    background-color: rgb(255, 255, 255);
+    color: #19A43B;
+    border: none;
+}
+#cow{
+    width: 100%;
+    height: auto;
+    
+}
+*{
+    font-family: Courier;
+    padding: 0;
+    margin: 0;
+    
+}
+.name{
+    font-family: 'Dancing Script', cursive;
+    color: #1EA63F;
+    text-align: center;
+    font-size: 3rem;
+     margin-bottom: 8px;
+}
+.about-us{
+    background-color: gray;
+    border-radius: 5%;
+    margin: 10px;
+}
+.au{
+    text-transform: uppercase;
+    text-align: center;
+    font: 100;
+    font-size:2rem ;
+}
+.au-text{
+    text-align: justify;
+}
+.vid{
+    text-align: center;
+}
+.WWO{
+    background-color: white;
+    border: 2PX gray solid;
+    text-align: center;
+}
+.CARD img{
+    width: 50%;
+    height: auto;
+    text-align: center;
+}
+.WWO:hover{
+    box-shadow: 5PX black;
+}
+.wwon{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 500px;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family:'Indie Flower', cursive ;
+    text-align: center;
+    width: 100%;
+}
